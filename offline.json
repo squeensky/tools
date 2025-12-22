@@ -1,7 +1,7 @@
 {
 	"arizona_pc": {
-		"status": false,
-		"info": "-"
+		"status": true,
+		"info": "Offline Mode"
 	},
 	"rodina_pc": {
 		"status": false,
